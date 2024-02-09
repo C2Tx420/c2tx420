@@ -1,6 +1,8 @@
 # Hi I'm Chung :fox_face:
 
-:computer: I'm Front End Developer in Viet Nam
+:computer: I'm Front End Developer in Viet Nam. 
+Build @Trekn_xyz.
+Learn more about BE and Devops.
 
 ---
 
@@ -14,6 +16,10 @@
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nestjs" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgre" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Supabase" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
